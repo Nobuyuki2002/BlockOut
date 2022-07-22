@@ -73,7 +73,7 @@ typedef struct S_GAMESITUATION
 	E_DIRECTION broken_lifeup_block;				// 破壊したライフアップブロックの数
 	int32_t		before_ballupdate;					// 前回のボールのアップデート時間
 	char		map[ MAX_HEIGHT ][ MAX_WIDTH + 1 ];	// マップデータ
-	uint16_t	block_count;
+	uint16_t	block_count;						// 残りブロック数
 } T_GAMESITUATION;
 
 /*****************************************************
