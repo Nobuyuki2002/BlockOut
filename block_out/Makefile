@@ -22,5 +22,6 @@ all : $(PROGRAM)
 clean :
 	@$(RM) $(PROGRAM) $(OBJROOT)/$(OBJS) $(OBJS)
 
+#gitにコミットする場合にpushする前に実行(gitでも「./obj/* ./log/* ./data/save_data.dat ./*.exe ./*.o」の.gitignoreを設定すること)
 init :
 	@$(RM) $(PROGRAM) $(OBJROOT)/$(OBJS) $(OBJS) $(LOG) $(SAVEDATA)
