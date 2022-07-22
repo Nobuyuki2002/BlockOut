@@ -14,18 +14,23 @@ void DrawHelpWindow ()
 	WriteLog ( false, "== start DrawHelpWindow ==" );
 	int ch;
 	uint8_t line_count = 0;
+	uint8_t x = 0, y = 0;
 	FILE* fp;
 	char help_line[ LINE_MAXLEN ];
 
+	clear ();
 	fp = fopen ( HELPDATAFILE, "r" );
 	if ( fp == NULL )
 	{
+		getmaxyx ( stdscr, y, x );
+		mvprintw ( y/2, x/2 - 19 , "設定ファイルが読み込めません(help.dat)" );
+		refresh ();
+		sleep (2);
 		WriteLog ( true, "fail open help file" );
 		return;
 	}
 
 	/* ヘルプを出力する */
-	clear ();
 	while ( fgets ( help_line, LINE_MAXLEN, fp ) != NULL )
 	{
 		mvprintw ( line_count, 0, help_line );

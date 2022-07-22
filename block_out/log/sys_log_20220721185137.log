@@ -1,0 +1,225 @@
+18:51:37 | [  OK  ] == start main ==
+18:51:37 | [  OK  ] finish init setting
+18:51:37 | [  OK  ] create init data
+18:51:37 | [  OK  ] strat main thread
+18:51:37 | [  OK  ] == start MenuWindow ==
+18:51:37 | [  OK  ] window size < x:100, y:30 >
+18:51:37 | [  OK  ] draw status
+18:51:37 | [  OK  ] draw items
+18:51:38 | [  OK  ] input time out
+18:51:38 | [  OK  ] select item select_item < map_1 >
+18:51:38 | [  OK  ] window size < x:100, y:30 >
+18:51:38 | [  OK  ] draw status
+18:51:38 | [  OK  ] draw items
+18:51:38 | [  OK  ] input time out
+18:51:38 | [  OK  ] select item select_item < map_1 >
+18:51:38 | [  OK  ] window size < x:100, y:30 >
+18:51:38 | [  OK  ] draw status
+18:51:38 | [  OK  ] draw items
+18:51:39 | [  OK  ] input time out
+18:51:39 | [  OK  ] select item select_item < map_1 >
+18:51:39 | [  OK  ] window size < x:100, y:30 >
+18:51:39 | [  OK  ] draw status
+18:51:39 | [  OK  ] draw items
+18:51:39 | [  OK  ] input time out
+18:51:39 | [  OK  ] select item select_item < map_1 >
+18:51:39 | [  OK  ] window size < x:100, y:30 >
+18:51:39 | [  OK  ] draw status
+18:51:39 | [  OK  ] draw items
+18:51:40 | [  OK  ] input time out
+18:51:40 | [  OK  ] select item select_item < map_1 >
+18:51:40 | [  OK  ] window size < x:100, y:30 >
+18:51:40 | [  OK  ] draw status
+18:51:40 | [  OK  ] draw items
+18:51:40 | [  OK  ] input time out
+18:51:40 | [  OK  ] select item select_item < map_1 >
+18:51:40 | [  OK  ] window size < x:100, y:30 >
+18:51:40 | [  OK  ] draw status
+18:51:40 | [  OK  ] draw items
+18:51:41 | [  OK  ] input time out
+18:51:41 | [  OK  ] select item select_item < map_1 >
+18:51:41 | [  OK  ] window size < x:100, y:30 >
+18:51:41 | [  OK  ] draw status
+18:51:41 | [  OK  ] draw items
+18:51:41 | [  OK  ] input time out
+18:51:41 | [  OK  ] select item select_item < map_1 >
+18:51:41 | [  OK  ] window size < x:100, y:30 >
+18:51:41 | [  OK  ] draw status
+18:51:41 | [  OK  ] draw items
+18:51:42 | [  OK  ] input time out
+18:51:42 | [  OK  ] select item select_item < map_1 >
+18:51:42 | [  OK  ] window size < x:100, y:30 >
+18:51:42 | [  OK  ] draw status
+18:51:42 | [  OK  ] draw items
+18:51:42 | [  OK  ] input time out
+18:51:42 | [  OK  ] select item select_item < map_1 >
+18:51:42 | [  OK  ] window size < x:100, y:30 >
+18:51:42 | [  OK  ] draw status
+18:51:42 | [  OK  ] draw items
+18:51:43 | [  OK  ] input time out
+18:51:43 | [  OK  ] select item select_item < map_1 >
+18:51:43 | [  OK  ] window size < x:100, y:30 >
+18:51:43 | [  OK  ] draw status
+18:51:43 | [  OK  ] draw items
+18:51:43 | [  OK  ] input time out
+18:51:43 | [  OK  ] select item select_item < map_1 >
+18:51:43 | [  OK  ] window size < x:100, y:30 >
+18:51:43 | [  OK  ] draw status
+18:51:43 | [  OK  ] draw items
+18:51:44 | [  OK  ] input time out
+18:51:44 | [  OK  ] select item select_item < map_1 >
+18:51:44 | [  OK  ] window size < x:100, y:30 >
+18:51:44 | [  OK  ] draw status
+18:51:44 | [  OK  ] draw items
+18:51:44 | [  OK  ] input time out
+18:51:44 | [  OK  ] select item select_item < map_1 >
+18:51:44 | [  OK  ] window size < x:100, y:30 >
+18:51:44 | [  OK  ] draw status
+18:51:44 | [  OK  ] draw items
+18:51:45 | [  OK  ] input time out
+18:51:45 | [  OK  ] select item select_item < map_1 >
+18:51:45 | [  OK  ] window size < x:100, y:30 >
+18:51:45 | [  OK  ] draw status
+18:51:45 | [  OK  ] draw items
+18:51:45 | [  OK  ] input time out
+18:51:45 | [  OK  ] select item select_item < map_1 >
+18:51:45 | [  OK  ] window size < x:100, y:30 >
+18:51:45 | [  OK  ] draw status
+18:51:45 | [  OK  ] draw items
+18:51:46 | [  OK  ] input time out
+18:51:46 | [  OK  ] select item select_item < map_1 >
+18:51:46 | [  OK  ] window size < x:100, y:30 >
+18:51:46 | [  OK  ] draw status
+18:51:46 | [  OK  ] draw items
+18:51:46 | [  OK  ] input time out
+18:51:46 | [  OK  ] select item select_item < map_1 >
+18:51:46 | [  OK  ] window size < x:100, y:30 >
+18:51:46 | [  OK  ] draw status
+18:51:46 | [  OK  ] draw items
+18:51:47 | [  OK  ] input time out
+18:51:47 | [  OK  ] select item select_item < map_1 >
+18:51:47 | [  OK  ] window size < x:100, y:30 >
+18:51:47 | [  OK  ] draw status
+18:51:47 | [  OK  ] draw items
+18:51:47 | [  OK  ] input time out
+18:51:47 | [  OK  ] select item select_item < map_1 >
+18:51:47 | [  OK  ] window size < x:100, y:30 >
+18:51:47 | [  OK  ] draw status
+18:51:47 | [  OK  ] draw items
+18:51:48 | [  OK  ] input time out
+18:51:48 | [  OK  ] select item select_item < map_1 >
+18:51:48 | [  OK  ] window size < x:100, y:30 >
+18:51:48 | [  OK  ] draw status
+18:51:48 | [  OK  ] draw items
+18:51:48 | [  OK  ] input time out
+18:51:48 | [  OK  ] select item select_item < map_1 >
+18:51:48 | [  OK  ] window size < x:100, y:30 >
+18:51:48 | [  OK  ] draw status
+18:51:48 | [  OK  ] draw items
+18:51:49 | [  OK  ] input time out
+18:51:49 | [  OK  ] select item select_item < map_1 >
+18:51:49 | [  OK  ] window size < x:100, y:30 >
+18:51:49 | [  OK  ] draw status
+18:51:49 | [  OK  ] draw items
+18:51:49 | [  OK  ] input time out
+18:51:49 | [  OK  ] select item select_item < map_1 >
+18:51:49 | [  OK  ] window size < x:100, y:30 >
+18:51:49 | [  OK  ] draw status
+18:51:49 | [  OK  ] draw items
+18:51:50 | [  OK  ] input time out
+18:51:50 | [  OK  ] select item select_item < map_1 >
+18:51:50 | [  OK  ] window size < x:100, y:30 >
+18:51:50 | [  OK  ] draw status
+18:51:50 | [  OK  ] draw items
+18:51:50 | [  OK  ] input time out
+18:51:50 | [  OK  ] select item select_item < map_1 >
+18:51:50 | [  OK  ] window size < x:100, y:30 >
+18:51:50 | [  OK  ] draw status
+18:51:50 | [  OK  ] draw items
+18:51:51 | [  OK  ] input time out
+18:51:51 | [  OK  ] select item select_item < map_1 >
+18:51:51 | [  OK  ] window size < x:100, y:30 >
+18:51:51 | [  OK  ] draw status
+18:51:51 | [  OK  ] draw items
+18:51:51 | [  OK  ] input time out
+18:51:51 | [  OK  ] select item select_item < map_1 >
+18:51:51 | [  OK  ] window size < x:100, y:30 >
+18:51:51 | [  OK  ] draw status
+18:51:51 | [  OK  ] draw items
+18:51:52 | [  OK  ] input time out
+18:51:52 | [  OK  ] select item select_item < map_1 >
+18:51:52 | [  OK  ] window size < x:100, y:30 >
+18:51:52 | [  OK  ] draw status
+18:51:52 | [  OK  ] draw items
+18:51:52 | [  OK  ] input time out
+18:51:52 | [  OK  ] select item select_item < map_1 >
+18:51:52 | [  OK  ] window size < x:100, y:30 >
+18:51:52 | [  OK  ] draw status
+18:51:52 | [  OK  ] draw items
+18:51:53 | [  OK  ] input time out
+18:51:53 | [  OK  ] select item select_item < map_1 >
+18:51:53 | [  OK  ] window size < x:100, y:30 >
+18:51:53 | [  OK  ] draw status
+18:51:53 | [  OK  ] draw items
+18:51:53 | [  OK  ] input time out
+18:51:53 | [  OK  ] select item select_item < map_1 >
+18:51:53 | [  OK  ] window size < x:100, y:30 >
+18:51:53 | [  OK  ] draw status
+18:51:53 | [  OK  ] draw items
+18:51:54 | [  OK  ] input time out
+18:51:54 | [  OK  ] select item select_item < map_1 >
+18:51:54 | [  OK  ] window size < x:100, y:30 >
+18:51:54 | [  OK  ] draw status
+18:51:54 | [  OK  ] draw items
+18:51:54 | [  OK  ] input time out
+18:51:54 | [  OK  ] select item select_item < map_1 >
+18:51:54 | [  OK  ] window size < x:100, y:30 >
+18:51:54 | [  OK  ] draw status
+18:51:54 | [  OK  ] draw items
+18:51:55 | [  OK  ] input time out
+18:51:55 | [  OK  ] select item select_item < map_1 >
+18:51:55 | [  OK  ] window size < x:100, y:30 >
+18:51:55 | [  OK  ] draw status
+18:51:55 | [  OK  ] draw items
+18:51:55 | [  OK  ] input time out
+18:51:55 | [  OK  ] select item select_item < map_1 >
+18:51:55 | [  OK  ] window size < x:100, y:30 >
+18:51:55 | [  OK  ] draw status
+18:51:55 | [  OK  ] draw items
+18:51:56 | [  OK  ] input time out
+18:51:56 | [  OK  ] select item select_item < map_1 >
+18:51:56 | [  OK  ] window size < x:100, y:30 >
+18:51:56 | [  OK  ] draw status
+18:51:56 | [  OK  ] draw items
+18:51:56 | [  OK  ] input key < KEY_DOWN >
+18:51:56 | [  OK  ] select item select_item < help >
+18:51:56 | [  OK  ] window size < x:100, y:30 >
+18:51:56 | [  OK  ] draw status
+18:51:56 | [  OK  ] draw items
+18:51:56 | [  OK  ] input key < KEY_DOWN >
+18:51:56 | [  OK  ] select item select_item < exit_game >
+18:51:56 | [  OK  ] window size < x:100, y:30 >
+18:51:56 | [  OK  ] draw status
+18:51:56 | [  OK  ] draw items
+18:51:57 | [  OK  ] input key < KEY_DOWN >
+18:51:57 | [  OK  ] select item select_item < exit_game >
+18:51:57 | [  OK  ] window size < x:100, y:30 >
+18:51:57 | [  OK  ] draw status
+18:51:57 | [  OK  ] draw items
+18:51:57 | [  OK  ] input time out
+18:51:57 | [  OK  ] select item select_item < exit_game >
+18:51:57 | [  OK  ] window size < x:100, y:30 >
+18:51:57 | [  OK  ] draw status
+18:51:57 | [  OK  ] draw items
+18:51:58 | [  OK  ] input time out
+18:51:58 | [  OK  ] select item select_item < exit_game >
+18:51:58 | [  OK  ] window size < x:100, y:30 >
+18:51:58 | [  OK  ] draw status
+18:51:58 | [  OK  ] draw items
+18:51:58 | [  OK  ] input key < SPACE >
+18:51:58 | [  OK  ] select item select_item < exit_game >
+18:51:58 | [  OK  ] == end MenuWindow ==
+18:51:58 | [  OK  ] select exit
+18:51:58 | [  OK  ] finish save game
+18:51:58 | [  OK  ] close main window
+18:51:58 | [  OK  ] == end main ==
